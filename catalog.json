@@ -1,0 +1,1016 @@
+{
+  "sources": {
+    "lunyu": {
+      "author": "孔子及其弟子",
+      "work": "论语",
+      "url": "https://zh.wikisource.org/zh-hans/論語/全覽",
+      "rights": "古籍原文，公有领域"
+    },
+    "mengzi": {
+      "author": "孟子",
+      "work": "孟子",
+      "url": "https://zh.wikisource.org/zh-hans/孟子/全覽",
+      "rights": "古籍原文，公有领域"
+    },
+    "gu_xiang": {
+      "author": "鲁迅",
+      "work": "故乡",
+      "url": "https://zh.wikisource.org/zh-hans/故鄉",
+      "rights": "所列早年发表作品的原文，公有领域"
+    },
+    "cong_cong": {
+      "author": "朱自清",
+      "work": "匆匆",
+      "url": "https://zh.wikisource.org/zh-hans/匆匆",
+      "rights": "所列早年发表作品的原文，公有领域"
+    },
+    "bei_ying": {
+      "author": "朱自清",
+      "work": "背影",
+      "url": "https://zh.wikisource.org/zh-hans/背影",
+      "rights": "所列早年发表作品的原文，公有领域"
+    },
+    "jing_ye": {
+      "author": "梁启超",
+      "work": "敬业与乐业",
+      "url": "https://zh.wikisource.org/zh-hans/敬業與樂業",
+      "rights": "所列早年发表作品的原文，公有领域"
+    },
+    "wei_xue": {
+      "author": "梁启超",
+      "work": "为学与做人",
+      "url": "https://zh.wikisource.org/zh-hans/為學與做人",
+      "rights": "所列早年发表作品的原文，公有领域"
+    },
+    "shao_nian": {
+      "author": "梁启超",
+      "work": "少年中国说",
+      "url": "https://zh.wikisource.org/zh-hans/少年中國說",
+      "rights": "所列早年发表作品的原文，公有领域"
+    },
+    "zui_ku": {
+      "author": "梁启超",
+      "work": "最苦与最乐",
+      "url": "https://zh.wikisource.org/zh-hans/最苦與最樂",
+      "rights": "所列早年发表作品的原文，公有领域"
+    },
+    "shidi": {
+      "author": "梁启超",
+      "work": "论毅力",
+      "url": "https://zh.wikisource.org/zh-hans/新民說/第十五節",
+      "rights": "所列早年发表作品的原文，公有领域"
+    },
+    "hu": {
+      "author": "胡适",
+      "work": "文学改良刍议",
+      "url": "https://zh.wikisource.org/zh-hans/文學改良芻議",
+      "rights": "所列早年发表作品的原文，公有领域"
+    },
+    "contemporary_yolo": {
+      "author": "YOLO 人生",
+      "work": "关于",
+      "url": "https://www.yolo.blue/about/",
+      "rights": "CC BY 4.0，作者授权见原文版权说明"
+    },
+    "epictetus": {
+      "author": "爱比克泰德",
+      "work": "手册",
+      "url": "https://standardebooks.org/ebooks/epictetus/short-works/george-long/text/the-enchiridion",
+      "rights": "原著与乔治·朗旧英译（译者卒于 1879 年），公有领域"
+    },
+    "marcus": {
+      "author": "马可·奥勒留",
+      "work": "沉思录",
+      "url": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long/text/single-page",
+      "rights": "原著与乔治·朗旧英译（译者卒于 1879 年），公有领域"
+    },
+    "tagore": {
+      "author": "泰戈尔",
+      "work": "飞鸟集",
+      "url": "https://raw.githubusercontent.com/GITenberg/Stray-Birds_6524/master/6524.txt",
+      "rights": "1916 年由作者自行译成英文并出版，公有领域",
+      "edition": "Project Gutenberg eBook 6524"
+    },
+    "gibran": {
+      "author": "纪伯伦",
+      "work": "先知",
+      "url": "https://standardebooks.org/ebooks/kahlil-gibran/the-prophet/text/single-page",
+      "rights": "1923 年英文原著，公有领域"
+    },
+    "walden": {
+      "author": "梭罗",
+      "work": "瓦尔登湖",
+      "url": "https://standardebooks.org/ebooks/henry-david-thoreau/walden/text/single-page",
+      "rights": "1854 年英文原著，公有领域"
+    },
+    "zen": {
+      "author": "利奥·巴博塔",
+      "work": "放慢脚步",
+      "url": "https://zenhabits.net/slow/",
+      "rights": "作者将原创博文贡献至公有领域，见 https://zenhabits.net/uncopyright/"
+    }
+  },
+  "quotes": [
+    {
+      "id": "lunyu-001",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "知之者不如好之者，好之者不如乐之者。",
+      "original": "知之者不如好之者，好之者不如乐之者。"
+    },
+    {
+      "id": "lunyu-002",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "学而时习之，不亦说乎？",
+      "original": "学而时习之，不亦说乎？"
+    },
+    {
+      "id": "lunyu-003",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "温故而知新，可以为师矣。",
+      "original": "温故而知新，可以为师矣。"
+    },
+    {
+      "id": "lunyu-004",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "学而不思则罔，思而不学则殆。",
+      "original": "学而不思则罔，思而不学则殆。"
+    },
+    {
+      "id": "lunyu-005",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "见贤思齐焉，见不贤而内自省也。",
+      "original": "见贤思齐焉，见不贤而内自省也。"
+    },
+    {
+      "id": "lunyu-006",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "己所不欲，勿施于人。",
+      "original": "己所不欲，勿施于人。"
+    },
+    {
+      "id": "lunyu-007",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "人无远虑，必有近忧。",
+      "original": "人无远虑，必有近忧。"
+    },
+    {
+      "id": "lunyu-008",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "君子和而不同，小人同而不和。",
+      "original": "君子和而不同，小人同而不和。"
+    },
+    {
+      "id": "lunyu-009",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "君子求诸己，小人求诸人。",
+      "original": "君子求诸己，小人求诸人。"
+    },
+    {
+      "id": "lunyu-010",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "工欲善其事，必先利其器。",
+      "original": "工欲善其事，必先利其器。"
+    },
+    {
+      "id": "lunyu-011",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "德不孤，必有邻。",
+      "original": "德不孤，必有邻。"
+    },
+    {
+      "id": "lunyu-012",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "过而不改，是谓过矣。",
+      "original": "过而不改，是谓过矣。"
+    },
+    {
+      "id": "lunyu-013",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "岁寒，然后知松柏之后凋也。",
+      "original": "岁寒，然后知松柏之后凋也。"
+    },
+    {
+      "id": "lunyu-014",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "三军可夺帅也，匹夫不可夺志也。",
+      "original": "三军可夺帅也，匹夫不可夺志也。"
+    },
+    {
+      "id": "lunyu-015",
+      "category": "中国古代",
+      "source": "lunyu",
+      "text": "知者不惑，仁者不忧，勇者不惧。",
+      "original": "知者不惑，仁者不忧，勇者不惧。"
+    },
+    {
+      "id": "mengzi-016",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "得道者多助，失道者寡助。",
+      "original": "得道者多助，失道者寡助。"
+    },
+    {
+      "id": "mengzi-017",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "爱人者，人恒爱之；敬人者，人恒敬之。",
+      "original": "爱人者，人恒爱之；敬人者，人恒敬之。"
+    },
+    {
+      "id": "mengzi-018",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "老吾老，以及人之老；幼吾幼，以及人之幼。",
+      "original": "老吾老，以及人之老；幼吾幼，以及人之幼。"
+    },
+    {
+      "id": "mengzi-019",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "尽信书，则不如无书。",
+      "original": "尽信书，则不如无书。"
+    },
+    {
+      "id": "mengzi-020",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "人皆可以为尧舜。",
+      "original": "人皆可以为尧舜。"
+    },
+    {
+      "id": "mengzi-021",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "鱼，我所欲也；熊掌，亦我所欲也。",
+      "original": "鱼，我所欲也；熊掌，亦我所欲也。"
+    },
+    {
+      "id": "mengzi-022",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "恻隐之心，仁之端也。",
+      "original": "恻隐之心，仁之端也。"
+    },
+    {
+      "id": "mengzi-023",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "仰不愧于天，俯不怍于人。",
+      "original": "仰不愧于天，俯不怍于人。"
+    },
+    {
+      "id": "mengzi-024",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "穷则独善其身，达则兼善天下。",
+      "original": "穷则独善其身，达则兼善天下。"
+    },
+    {
+      "id": "mengzi-025",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "富贵不能淫，贫贱不能移，威武不能屈。",
+      "original": "富贵不能淫，贫贱不能移，威武不能屈。"
+    },
+    {
+      "id": "mengzi-026",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "生于忧患而死于安乐也。",
+      "original": "生于忧患而死于安乐也。"
+    },
+    {
+      "id": "mengzi-027",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "惟仁者宜在高位。",
+      "original": "惟仁者宜在高位。"
+    },
+    {
+      "id": "mengzi-028",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "自反而缩，虽千万人，吾往矣。",
+      "original": "自反而缩，虽千万人，吾往矣。"
+    },
+    {
+      "id": "gu_xiang-029",
+      "category": "中国近现代",
+      "source": "gu_xiang",
+      "text": "其实地上本没有路；走的人多了，也便成了路。",
+      "original": "其实地上本没有路；走的人多了，也便成了路。"
+    },
+    {
+      "id": "gu_xiang-030",
+      "category": "中国近现代",
+      "source": "gu_xiang",
+      "text": "希望是本无所谓有，无所谓无的。",
+      "original": "希望是本无所谓有，无所谓无的。"
+    },
+    {
+      "id": "gu_xiang-031",
+      "category": "中国近现代",
+      "source": "gu_xiang",
+      "text": "他们应该有新的生活，为我们所未经生活过的。",
+      "original": "他们应该有新的生活，为我们所未经生活过的。"
+    },
+    {
+      "id": "cong_cong-032",
+      "category": "中国近现代",
+      "source": "cong_cong",
+      "text": "燕子去了，有再来的时候；杨柳枯了，有再青的时候；桃花谢了，有再开的时候。",
+      "original": "燕子去了，有再来的时候；杨柳枯了，有再青的时候；桃花谢了，有再开的时候。"
+    },
+    {
+      "id": "cong_cong-033",
+      "category": "中国近现代",
+      "source": "cong_cong",
+      "text": "去的尽管去了，来的尽管来着；去来的中间，又怎样地匆匆呢？",
+      "original": "去的尽管去了，来的尽管来着；去来的中间，又怎样地匆匆呢？"
+    },
+    {
+      "id": "cong_cong-034",
+      "category": "中国近现代",
+      "source": "cong_cong",
+      "text": "太阳他有脚啊，轻轻悄悄地挪移了。",
+      "original": "太阳他有脚啊，轻轻悄悄地挪移了。"
+    },
+    {
+      "id": "cong_cong-035",
+      "category": "中国近现代",
+      "source": "cong_cong",
+      "text": "我的日子滴在时间的流里，没有声音，也没有影子。",
+      "original": "我的日子滴在时间的流里，没有声音，也没有影子。"
+    },
+    {
+      "id": "cong_cong-036",
+      "category": "中国近现代",
+      "source": "cong_cong",
+      "text": "过去的日子如轻烟，被微风吹散了，如薄雾，被初阳蒸融了。",
+      "original": "过去的日子如轻烟，被微风吹散了，如薄雾，被初阳蒸融了。"
+    },
+    {
+      "id": "bei_ying-037",
+      "category": "中国近现代",
+      "source": "bei_ying",
+      "text": "事已如此，不必难过，好在天无绝人之路！",
+      "original": "事已如此，不必难过，好在天无绝人之路！"
+    },
+    {
+      "id": "jing_ye-038",
+      "category": "中国近现代",
+      "source": "jing_ye",
+      "text": "凡做一件事，便忠于一件事。",
+      "original": "凡做一件事，便忠于一件事。"
+    },
+    {
+      "id": "jing_ye-039",
+      "category": "中国近现代",
+      "source": "jing_ye",
+      "text": "凡可以名为一件事的，其性质都是可敬。",
+      "original": "凡可以名为一件事的，其性质都是可敬。"
+    },
+    {
+      "id": "jing_ye-040",
+      "category": "中国近现代",
+      "source": "jing_ye",
+      "text": "从劳苦中找出快乐来。",
+      "original": "从劳苦中找出快乐来。"
+    },
+    {
+      "id": "jing_ye-041",
+      "category": "中国近现代",
+      "source": "jing_ye",
+      "text": "只要你肯继续做下去，趣味自然会发生。",
+      "original": "只要你肯继续做下去，趣味自然会发生。"
+    },
+    {
+      "id": "jing_ye-042",
+      "category": "中国近现代",
+      "source": "jing_ye",
+      "text": "一步一步地奋斗前去，从刻苦中将快乐的分量加增。",
+      "original": "一步一步地奋斗前去，从刻苦中将快乐的分量加增。"
+    },
+    {
+      "id": "jing_ye-043",
+      "category": "中国近现代",
+      "source": "jing_ye",
+      "text": "敬业即是责任心，乐业即是趣味。",
+      "original": "敬业即是责任心，乐业即是趣味。"
+    },
+    {
+      "id": "wei_xue-044",
+      "category": "中国近现代",
+      "source": "wei_xue",
+      "text": "最要紧的是养成我们的判断力。",
+      "original": "最要紧的是养成我们的判断力。"
+    },
+    {
+      "id": "wei_xue-045",
+      "category": "中国近现代",
+      "source": "wei_xue",
+      "text": "头一件须要心地光明。",
+      "original": "头一件须要心地光明。"
+    },
+    {
+      "id": "wei_xue-046",
+      "category": "中国近现代",
+      "source": "wei_xue",
+      "text": "一个人要保持勇气，须要从一切行为可以公开做起。",
+      "original": "一个人要保持勇气，须要从一切行为可以公开做起。"
+    },
+    {
+      "id": "shidi-047",
+      "category": "中国近现代",
+      "source": "shidi",
+      "text": "有毅力者成，反是者败。",
+      "original": "有毅力者成，反是者敗"
+    },
+    {
+      "id": "shidi-048",
+      "category": "中国近现代",
+      "source": "shidi",
+      "text": "小逆之后必有小顺，大逆之后必有大顺。",
+      "original": "小逆之後必有小順，大逆之後必有大順"
+    },
+    {
+      "id": "shidi-049",
+      "category": "中国近现代",
+      "source": "shidi",
+      "text": "真有毅力者，惟怀久远之希望，而不计目前之成败。",
+      "original": "真有毅力者，惟懷久遠之希望，而不計目前之成敗"
+    },
+    {
+      "id": "hu-050",
+      "category": "中国近现代",
+      "source": "hu",
+      "text": "须言之有物。",
+      "original": "须言之有物。"
+    },
+    {
+      "id": "hu-051",
+      "category": "中国近现代",
+      "source": "hu",
+      "text": "不摹仿古人。",
+      "original": "不摹仿古人。"
+    },
+    {
+      "id": "hu-052",
+      "category": "中国近现代",
+      "source": "hu",
+      "text": "不作无病之呻吟。",
+      "original": "不作无病之呻吟。"
+    },
+    {
+      "id": "contemporary_yolo-053",
+      "category": "中国近现代",
+      "source": "contemporary_yolo",
+      "text": "人生只有一次，不虚度光阴。",
+      "original": "人生只有一次，不虚度光阴，与大家共勉。",
+      "displayRights": "CC BY 4.0（摘录，调整句末标点）"
+    },
+    {
+      "id": "epictetus-054",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "有些事由我们掌握，有些事不由我们掌握。",
+      "original": "Of things some are in our power, and others are not.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-055",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "着手做一件事前，先想清楚它是怎样一件事。",
+      "original": "When you are going to take in hand any act, remind yourself what kind of an act it is.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-056",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "扰乱人心的不是事情本身，而是我们对事情的看法。",
+      "original": "Men are disturbed not by the things which happen, but by the opinions about the things",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-057",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "别为属于别人的长处而自满。",
+      "original": "Be not elated at any advantage (excellence), which belongs to another.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-058",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "事事未必合心意，顺其本来面目，日子便会安宁。",
+      "original": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-059",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "疾病可以妨碍身体，未必能妨碍意志。",
+      "original": "Disease is an impediment to the body, but not to the will, unless the will itself chooses.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-060",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "遇到一件事，先问自己，有什么能力可以应对它。",
+      "original": "On the occasion of every accident (event) that befalls you, remember to turn to yourself and inquire what power you have for turning it to use.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-061",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "把日子过得像赴一场宴席，东西来到面前，再从容地取一份。",
+      "original": "Remember that in life you ought to behave as at a banquet. Suppose that something is carried round and is opposite to you. Stretch out your hand and take a portion with decency.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-062",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "机会从面前过去时，不必强留。",
+      "original": "Suppose that it passes by you. Do not detain it.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-063",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "每次行动之前，想想它的起因和后果，然后再做。",
+      "original": "In every act observe the things which come first, and those which follow it; and so proceed to the act.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-064",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "独处和见人时，都守住自己定下的处事方式。",
+      "original": "Immediately prescribe some character and some form to yourself, which you shall observe both when you are alone and when you meet with men.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-065",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "平时可以安静些，必要的话也可以说得简短些。",
+      "original": "And let silence be the general rule, or let only what is necessary be said, and in few words.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-066",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "失去一件东西时，不妨想作把它归还了。",
+      "original": "Never say about anything, I have lost it, but say I have restored it.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-067",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "想要有所进步，就容许别人以为你并不懂。",
+      "original": "If you would improve, submit to be considered without sense and foolish with respect to externals.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "epictetus-068",
+      "category": "外国古典",
+      "source": "epictetus",
+      "text": "尽责任，须先看自己和对方是什么关系。",
+      "original": "Duties are universally measured by relations",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-069",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "让事物发生变化，并不是什么坏事。",
+      "original": "It is no evil for things to undergo change",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-070",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "像海岬一样站稳，任凭海浪拍打，直到四周重归平静。",
+      "original": "Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-071",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "往内心看。",
+      "original": "Look within.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-072",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "别变成伤害你的人，这就是最好的回击。",
+      "original": "The best way of avenging thyself is not to become like the wrong doer.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-073",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "尽自己的本分，其他的事不必烦扰。",
+      "original": "I do my duty: other things trouble me not",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-074",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "适应你的际遇，也真心爱与你同路的人。",
+      "original": "Adapt thyself to the things with which thy lot has been cast: and the men among whom thou hast received thy portion, love them, but do it truly, sincerely.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-075",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "遇事可以暂不下判断，也就不必让内心受扰。",
+      "original": "It is in our power to have no opinion about a thing, and not to be disturbed in our soul",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-076",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "专心听别人说话，也尽量站到说话人的角度。",
+      "original": "Accustom thyself to attend carefully to what is said by another, and as much as it is possible, be in the speaker’s mind.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-077",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "对蜂群无益的事，对一只蜜蜂也无益。",
+      "original": "That which is not good for the swarm, neither is it good for the bee.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-078",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "安静地回到内心，做正当的事，心便安定。",
+      "original": "Retire into thyself. The rational principle which rules has this nature, that it is content with itself when it does what is just, and so secures tranquility.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-079",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "用心听话，也用心看事情是怎样发生的。",
+      "original": "Direct thy attention to what is said. Let thy understanding enter into the things that are doing and the things which do them.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-080",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "只告诉自己最初所知道的事实。",
+      "original": "Say nothing more to thyself than what the first appearances report.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-081",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "让我们烦扰的，常是我们自己的看法。",
+      "original": "but it is our own opinions which disturb us",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-082",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "眼前的一切，都很快会变化。",
+      "original": "All existing things soon change",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "marcus-083",
+      "category": "外国古典",
+      "source": "marcus",
+      "text": "没有人能阻止你按自己的理性行事。",
+      "original": "No man will hinder thee from living according to the reason of thy own nature",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-084",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "是大地的泪水，让她的笑容长开不谢。",
+      "original": "It is the tears of the earth that keep her smiles in bloom.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-085",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "如果为错过太阳而流泪，你也会错过群星。",
+      "original": "If you shed tears when you miss the sun, you also miss the stars.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-086",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "她若有所思的脸，像夜雨一样留在我的梦里。",
+      "original": "Her wistful face haunts my dreams like the rain at night.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-087",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "我们梦见彼此陌生，醒来才发现原来彼此珍惜。",
+      "original": "Once we dreamt that we were strangers. We wake up to find that we were dear to each other.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-088",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "忧愁在我心中静成安宁，如黄昏落在无声的树林。",
+      "original": "Sorrow is hushed into peace in my heart like the evening among the silent trees.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-089",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "你看不见真实的自己，只看见自己的影子。",
+      "original": "What you are you do not see, what you see is your shadow.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-090",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "我不能选择最好的，是最好的选择了我。",
+      "original": "I cannot choose the best. The best chooses me.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-091",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "我的存在是一种长久的惊喜，这就是生命。",
+      "original": "That I exist is a perpetual surprise which is life.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-092",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "休息之于工作，正如眼睑之于双眼。",
+      "original": "Rest belongs to the work as the eyelids to the eyes.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-093",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "人生来是个孩子，他的力量在于成长。",
+      "original": "Man is a born child, his power is the power of growth.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-094",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "树木来到我窗前，像大地无声的呼唤。",
+      "original": "The trees come up to my window like the yearning voice of the dumb earth.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tagore-095",
+      "category": "外国近现代",
+      "source": "tagore",
+      "text": "世界的需要给生命以财富，爱的需要给生命以价值。",
+      "original": "Life finds its wealth by the claims of the world, and its worth by the claims of love.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "gibran-096",
+      "category": "外国近现代",
+      "source": "gibran",
+      "text": "工作是看得见的爱。",
+      "original": "Work is love made visible.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "gibran-097",
+      "category": "外国近现代",
+      "source": "gibran",
+      "text": "同在的时候，也给彼此留一点空间。",
+      "original": "But let there be spaces in your togetherness",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "gibran-098",
+      "category": "外国近现代",
+      "source": "gibran",
+      "text": "你可以给孩子你的爱，却不必给他们你的思想，因为他们有自己的思想。",
+      "original": "You may give them your love but not your thoughts, For they have their own thoughts.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "gibran-099",
+      "category": "外国近现代",
+      "source": "gibran",
+      "text": "生命不会倒行，也不会停留在昨天。",
+      "original": "For life goes not backward nor tarries with yesterday.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "gibran-100",
+      "category": "外国近现代",
+      "source": "gibran",
+      "text": "舍出自己的一部分，才是真正的给予。",
+      "original": "It is when you give of yourself that you truly give.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "gibran-101",
+      "category": "外国近现代",
+      "source": "gibran",
+      "text": "有人快乐地给予，这份快乐就是他们的回报。",
+      "original": "There are those who give with joy, and that joy is their reward.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "gibran-102",
+      "category": "外国近现代",
+      "source": "gibran",
+      "text": "带着柔情播种，带着喜悦收获。",
+      "original": "It is to sow seeds with tenderness and reap the harvest with joy",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "gibran-103",
+      "category": "外国近现代",
+      "source": "gibran",
+      "text": "你的喜悦是摘下面具的忧伤。",
+      "original": "Your joy is your sorrow unmasked.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "gibran-104",
+      "category": "外国近现代",
+      "source": "gibran",
+      "text": "大地喜欢感受你的赤脚，风想嬉弄你的头发。",
+      "original": "And forget not that the earth delights to feel your bare feet and the winds long to play with your hair.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "gibran-105",
+      "category": "外国近现代",
+      "source": "gibran",
+      "text": "饮过静默之河的水，才会真正歌唱。",
+      "original": "Only when you drink from the river of silence shall you indeed sing.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "walden-106",
+      "category": "外国近现代",
+      "source": "walden",
+      "text": "每天早晨，都是一个欢快的邀请，邀我过得像自然一样简单。",
+      "original": "Every morning was a cheerful invitation to make my life of equal simplicity",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "walden-107",
+      "category": "外国近现代",
+      "source": "walden",
+      "text": "我到树林里去，因为想清醒而有意地生活。",
+      "original": "I went to the woods because I wished to live deliberately",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "walden-108",
+      "category": "外国近现代",
+      "source": "walden",
+      "text": "我们的生活在琐事中消磨。",
+      "original": "Our life is frittered away by detail.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "walden-109",
+      "category": "外国近现代",
+      "source": "walden",
+      "text": "我家有三把椅子，一把给独处，两把给友谊，三把给交往。",
+      "original": "I had three chairs in my house; one for solitude, two for friendship, three for society.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "walden-110",
+      "category": "外国近现代",
+      "source": "walden",
+      "text": "迎着梦想的方向自信地走，会遇到日常所不曾料想的成功。",
+      "original": "if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "walden-111",
+      "category": "外国近现代",
+      "source": "walden",
+      "text": "我们亲近自然，总是不嫌多。",
+      "original": "We can never have enough of nature.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "walden-112",
+      "category": "外国近现代",
+      "source": "walden",
+      "text": "清醒，就是活着。",
+      "original": "To be awake is to be alive.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "zen-113",
+      "category": "外国近现代",
+      "source": "zen",
+      "text": "放慢一点，我们可能会重新喜欢上正在做的事。",
+      "original": "slowing down can have us falling in love with anything if we let it.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "mengzi-114",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "天时不如地利，地利不如人和。",
+      "original": "天时不如地利，地利不如人和。"
+    },
+    {
+      "id": "mengzi-115",
+      "category": "中国古代",
+      "source": "mengzi",
+      "text": "我善养吾浩然之气。",
+      "original": "我善养吾浩然之气。"
+    },
+    {
+      "id": "shao_nian-116",
+      "category": "中国近现代",
+      "source": "shao_nian",
+      "text": "红日初升，其道大光。",
+      "original": "红日初升，其道大光。"
+    },
+    {
+      "id": "shao_nian-117",
+      "category": "中国近现代",
+      "source": "shao_nian",
+      "text": "前途似海，来日方长。",
+      "original": "前途似海，来日方长。"
+    },
+    {
+      "id": "shao_nian-118",
+      "category": "中国近现代",
+      "source": "shao_nian",
+      "text": "纵有千古，横有八荒。",
+      "original": "纵有千古，横有八荒。"
+    },
+    {
+      "id": "zui_ku-119",
+      "category": "中国近现代",
+      "source": "zui_ku",
+      "text": "大抵天下事，从苦中得来的乐，才算是真乐。",
+      "original": "大抵天下事，从苦中得来的乐，才算是真乐。"
+    },
+    {
+      "id": "zui_ku-120",
+      "category": "中国近现代",
+      "source": "zui_ku",
+      "text": "人若能知足，虽贫不苦。",
+      "original": "人若能知足，虽贫不苦。"
+    }
+  ]
+}
