@@ -157,6 +157,76 @@
       "url": "https://raw.githubusercontent.com/GITenberg/Essays---First-Series_2944/master/2944.txt",
       "rights": "1841 年英文原著，公有领域",
       "edition": "Project Gutenberg eBook 2944，Essays, First Series"
+    },
+    "li_bai_xing_lu_nan": {
+      "author": "李白",
+      "work": "行路难·其一",
+      "url": "https://github.com/chinese-poetry/chinese-poetry/blob/master/%E5%85%A8%E5%94%90%E8%AF%97/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json",
+      "rights": "古籍原文，公有领域",
+      "edition": "chinese-poetry《唐诗三百首》"
+    },
+    "du_fu_wang_yue": {
+      "author": "杜甫",
+      "work": "望岳",
+      "url": "https://github.com/chinese-poetry/chinese-poetry/blob/master/%E5%85%A8%E5%94%90%E8%AF%97/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json",
+      "rights": "古籍原文，公有领域",
+      "edition": "chinese-poetry《唐诗三百首》"
+    },
+    "wang_zhi_huan_deng_lou": {
+      "author": "王之涣",
+      "work": "登鹳雀楼",
+      "url": "https://github.com/chinese-poetry/chinese-poetry/blob/master/%E5%85%A8%E5%94%90%E8%AF%97/%E5%94%90%E8%AF%97%E4%B8%89%E7%99%BE%E9%A6%96.json",
+      "rights": "古籍原文，公有领域",
+      "edition": "chinese-poetry《唐诗三百首》"
+    },
+    "liu_yu_xi_chou_le_tian": {
+      "author": "刘禹锡",
+      "work": "酬乐天扬州初逢席上见赠",
+      "url": "https://zh.wikisource.org/zh-hans/酬樂天揚州初逢席上見贈",
+      "rights": "古籍原文，公有领域",
+      "edition": "《全唐诗》卷360"
+    },
+    "seneca_letters": {
+      "author": "塞涅卡",
+      "work": "致卢基利乌斯书信",
+      "url": "https://github.com/vim-voom/Seneca/blob/master/en/Seneca-Epistulae_Morales-en-Gummere.md",
+      "rights": "原著与理查德·古默尔1917年版旧英译，公有领域",
+      "edition": "Loeb Classical Library 第1卷"
+    },
+    "luxun_talent": {
+      "author": "鲁迅",
+      "work": "未有天才之前",
+      "url": "https://github.com/Ac-heron/luxun/blob/master/%E5%85%A8%E9%9B%86/%E5%9D%9F/%E6%9C%AA%E6%9C%89%E5%A4%A9%E6%89%8D%E4%B9%8B%E5%89%8D.md",
+      "rights": "1924年刊载的鲁迅原文，公有领域",
+      "edition": "1924年刊载"
+    },
+    "luxun_road": {
+      "author": "鲁迅",
+      "work": "热风·生命的路",
+      "url": "https://github.com/Ac-heron/luxun/blob/master/%E5%85%A8%E9%9B%86/%E7%83%AD%E9%A3%8E/%E5%85%AD%E5%8D%81%E5%85%AD%E7%94%9F%E5%91%BD%E7%9A%84%E8%B7%AF.md",
+      "rights": "1919年刊载的鲁迅原文，公有领域",
+      "edition": "1919年刊载"
+    },
+    "luxun_look": {
+      "author": "鲁迅",
+      "work": "论睁了眼看",
+      "url": "https://github.com/Ac-heron/luxun/blob/master/%E5%85%A8%E9%9B%86/%E5%9D%9F/%E8%AE%BA%E7%9D%81%E4%BA%86%E7%9C%BC%E7%9C%8B.md",
+      "rights": "1925年刊载的鲁迅原文，公有领域",
+      "edition": "1925年刊载"
+    },
+    "helen_keller_story": {
+      "author": "海伦·凯勒",
+      "work": "我的生活",
+      "url": "https://github.com/standardebooks/helen-keller_the-story-of-my-life",
+      "rights": "1903年英文原著，公有领域。Standard Ebooks 编辑贡献采用 CC0 1.0",
+      "edition": "Standard Ebooks 作者自述部分"
+    },
+    "benjamin_franklin_autobio": {
+      "author": "本杰明·富兰克林",
+      "work": "富兰克林自传",
+      "url": "https://github.com/standardebooks/benjamin-franklin_the-autobiography-of-benjamin-franklin/blob/master/src/epub/text/chapter-9.xhtml",
+      "rights": "18世纪英文原稿，公有领域。Standard Ebooks 编辑贡献采用 CC0 1.0",
+      "edition": "Standard Ebooks 第9章"
     }
   },
   "quotes": [
@@ -1060,6 +1130,126 @@
       "source": "zui_ku",
       "text": "人若能知足，虽贫不苦。",
       "original": "人若能知足，虽贫不苦。"
+    },
+    {
+      "id": "li_bai_xing_lu_nan-167",
+      "category": "中国古代",
+      "source": "li_bai_xing_lu_nan",
+      "text": "长风破浪会有时，直挂云帆济沧海。",
+      "original": "長風破浪會有時，直挂雲帆濟滄海。"
+    },
+    {
+      "id": "seneca_letters-168",
+      "category": "外国古典",
+      "source": "seneca_letters",
+      "text": "抓紧今天的事，就不必过分指望明天。",
+      "original": "Lay hold of to-day's task, and you will not need to depend so much upon to-morrow's.",
+      "locator": "第1封"
+    },
+    {
+      "id": "luxun_look-169",
+      "category": "中国近现代",
+      "source": "luxun_look",
+      "text": "必须敢于正视，这才可望敢想，敢说，敢作，敢当。",
+      "original": "必须敢于正视，这才可望敢想，敢说，敢作，敢当。"
+    },
+    {
+      "id": "helen_keller_story-170",
+      "category": "外国近现代",
+      "source": "helen_keller_story",
+      "text": "每一次奋斗都是一次胜利。",
+      "original": "Every struggle is a victory.",
+      "locator": "作者自述第20章"
+    },
+    {
+      "id": "du_fu_wang_yue-171",
+      "category": "中国古代",
+      "source": "du_fu_wang_yue",
+      "text": "会当凌绝顶，一览众山小。",
+      "original": "會當凌絕頂，一覽衆山小。"
+    },
+    {
+      "id": "seneca_letters-172",
+      "category": "外国古典",
+      "source": "seneca_letters",
+      "text": "与能让你变得更好的人交往。",
+      "original": "Associate with those who will make a better man of you.",
+      "locator": "第7封"
+    },
+    {
+      "id": "luxun_talent-173",
+      "category": "中国近现代",
+      "source": "luxun_talent",
+      "text": "事在人为，比空等天赋的天才有把握。",
+      "original": "事在人为，比空等天赋的天才有把握。"
+    },
+    {
+      "id": "benjamin_franklin_autobio-174",
+      "category": "外国近现代",
+      "source": "benjamin_franklin_autobio",
+      "text": "立志去做该做的事。下定决心，就一定去做。",
+      "original": "Resolve to perform what you ought; perform without fail what you resolve.",
+      "locator": "志向（Resolution）"
+    },
+    {
+      "id": "wang_zhi_huan_deng_lou-175",
+      "category": "中国古代",
+      "source": "wang_zhi_huan_deng_lou",
+      "text": "欲穷千里目，更上一层楼。",
+      "original": "欲窮千里目，更上一層樓。"
+    },
+    {
+      "id": "seneca_letters-176",
+      "category": "外国古典",
+      "source": "seneca_letters",
+      "text": "想象带来的苦，往往比现实中的苦更多。",
+      "original": "we suffer more often in imagination than in reality.",
+      "locator": "第13封"
+    },
+    {
+      "id": "luxun_road-177",
+      "category": "中国近现代",
+      "source": "luxun_road",
+      "text": "什么是路？就是从没路的地方践踏出来的，从只有荆棘的地方开辟出来的。",
+      "original": "什么是路？就是从没路的地方践踏出来的，从只有荆棘的地方开辟出来的。"
+    },
+    {
+      "id": "helen_keller_story-178",
+      "category": "外国近现代",
+      "source": "helen_keller_story",
+      "text": "障碍依然存在，但假以时日，它们可以克服。",
+      "original": "There were barriers still, it is true, but barriers that could in time be swept away.",
+      "locator": "作者自述第4章"
+    },
+    {
+      "id": "liu_yu_xi_chou_le_tian-179",
+      "category": "中国古代",
+      "source": "liu_yu_xi_chou_le_tian",
+      "text": "沉舟侧畔千帆过，病树前头万木春。",
+      "original": "沉舟侧畔千帆过，病树前头万木春。"
+    },
+    {
+      "id": "seneca_letters-180",
+      "category": "外国古典",
+      "source": "seneca_letters",
+      "text": "用行动证明你说过的话。",
+      "original": "Prove your words by your deeds.",
+      "locator": "第20封"
+    },
+    {
+      "id": "luxun_talent-181",
+      "category": "中国近现代",
+      "source": "luxun_talent",
+      "text": "作品也一样，起初幼稚，不算耻辱的。",
+      "original": "作品也一样，起初幼稚，不算耻辱的。"
+    },
+    {
+      "id": "benjamin_franklin_autobio-182",
+      "category": "外国近现代",
+      "source": "benjamin_franklin_autobio",
+      "text": "珍惜时间，做有用的事，省去无谓的忙碌。",
+      "original": "Lose no time; be always employed in something useful; cut off all unnecessary actions.",
+      "locator": "勤勉（Industry）"
     }
   ]
 }

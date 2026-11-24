@@ -1,6 +1,6 @@
 # Quiet TV 每日格言
 
-Quiet TV 的公开励志格言源，主题包括坚持、行动、成长与应对挫折。中国古代、外国古典、中国近现代、外国近现代四类各 30 条，交替显示简体中文和出处。第一批 120 条覆盖 2026-11-24 至 2027-03-23。
+Quiet TV 的公开励志格言源，主题包括坚持、行动、成长与应对挫折。中国古代、外国古典、中国近现代、外国近现代四类各 34 条，交替显示简体中文和出处。目前排期覆盖 2026-11-24 至 2027-04-08。
 
 ## 数据与部署
 
@@ -11,6 +11,8 @@ GitHub Pages 从 `main` 的 `docs/` 发布。电视联网后按本地日期主�
 - [格言、原文及权利状态](catalog.json)
 
 每个响应包含 `date`、`text`、`credit`。有额外署名义务的条目同时提供 `source`、`license` 和 `adaptation`。日期文件预先提交，内容更新随分支部署。
+
+新增名言从 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)、[鲁迅文集](https://github.com/Ac-heron/luxun)、[塞涅卡文集](https://github.com/vim-voom/Seneca) 与 [Standard Ebooks](https://github.com/standardebooks) 的原著或旧译本中核对选入。文集用作编辑来源，电视继续读取本站的日期文件。
 
 补充格言时，在 `catalog.json` 中追加每类相同数量的条目，保留现有条目在所属分类中的次序。通过以下命令生成并核对连续日期文件。
 
