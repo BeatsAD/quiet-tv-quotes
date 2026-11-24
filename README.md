@@ -1,10 +1,10 @@
 # Quiet TV 每日格言
 
-Quiet TV 的公开格言源。中国古代、外国古典、中国近现代、外国近现代四类交替，每条显示简体中文和出处。第一批 120 条覆盖 2026-11-24 至 2027-03-23。
+Quiet TV 的公开励志格言源，主题包括坚持、行动、成长与应对挫折。中国古代、外国古典、中国近现代、外国近现代四类各 30 条，交替显示简体中文和出处。第一批 120 条覆盖 2026-11-24 至 2027-03-23。
 
 ## 数据与部署
 
-GitHub Pages 从 `main` 的 `docs/` 发布。以设备的本地日期读取 `daily/YYYY-MM-DD.json`。
+GitHub Pages 从 `main` 的 `docs/` 发布。电视联网后按本地日期主动读取 `daily/YYYY-MM-DD.json`。支持镜像的客户端会先访问 GitHub Raw 的镜像地址，并在取数失败时回退到 GitHub Pages 和 GitHub Raw。
 
 - [站点首页](https://beatsad.github.io/quiet-tv-quotes/)
 - [首日接口示例](https://beatsad.github.io/quiet-tv-quotes/daily/2026-11-24.json)
