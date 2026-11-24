@@ -227,6 +227,96 @@
       "url": "https://github.com/standardebooks/benjamin-franklin_the-autobiography-of-benjamin-franklin/blob/master/src/epub/text/chapter-9.xhtml",
       "rights": "18世纪英文原稿，公有领域。Standard Ebooks 编辑贡献采用 CC0 1.0",
       "edition": "Standard Ebooks 第9章"
+    },
+    "qu_yuan_li_sao": {
+      "author": "屈原",
+      "work": "离骚",
+      "url": "https://zh.wikisource.org/zh-hans/離騷",
+      "edition": "《楚辞》所收《离骚》",
+      "rights": "古籍原文，公有领域"
+    },
+    "aristotle_ethics": {
+      "author": "亚里士多德",
+      "work": "尼各马可伦理学",
+      "url": "https://www.gutenberg.org/files/8438/8438-h/8438-h.htm",
+      "edition": "D. P. Chase 英译，1847年初版，Project Gutenberg eBook 8438",
+      "rights": "古希腊原文及1847年 Chase 英译均属公有领域",
+      "rightsUrl": "https://en.wikisource.org/wiki/Nicomachean_Ethics_(Chase)"
+    },
+    "li_da_zhao_jin": {
+      "author": "李大钊",
+      "work": "今",
+      "url": "https://zh.wikisource.org/zh-hant/%E3%80%8C%E4%BB%8A%E3%80%8D",
+      "edition": "1918年4月15日文本",
+      "rights": "早期发表原文，作者1927年去世，公有领域"
+    },
+    "frederick_douglass_emancipation": {
+      "author": "弗雷德里克·道格拉斯",
+      "work": "西印度群岛的解放",
+      "url": "https://www.nps.gov/frdo/learn/historyculture/thoughts-for-all-time.htm",
+      "edition": "1857年演讲及同年印行的 Two Speeches by Frederick Douglass",
+      "rights": "1857年刊印的英文演讲原文，公有领域",
+      "rightsUrl": "https://www.loc.gov/resource/mss11879.21039/"
+    },
+    "lu_you_du_shu": {
+      "author": "陆游",
+      "work": "冬夜读书示子聿",
+      "url": "https://zh.wikisource.org/zh-hans/冬夜讀書示子聿",
+      "edition": "含“古人学问无遗力”一首",
+      "rights": "古籍原文，公有领域"
+    },
+    "plutarch_listening": {
+      "author": "普鲁塔克",
+      "work": "论如何听讲",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/De_auditu%2A.html#48C",
+      "edition": "《道德论集》卷一，F. C. Babbitt 1927年 Loeb 英译",
+      "rights": "古希腊原文及1927年 Babbitt 英译均属公有领域",
+      "rightsUrl": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/De_auditu%2A.html"
+    },
+    "tao_xing_zhi_xing": {
+      "author": "陶行知",
+      "work": "行是知之始",
+      "url": "https://millionbook.net/mj/t/taoxingzhi/000/005.htm",
+      "edition": "1927年6月3日作，《乡教丛讯》1928年1月15日第2卷第1期刊载首段",
+      "rights": "1928年刊本所载原文，作者1946年去世，公有领域",
+      "rightsUrl": "https://meikai.repo.nii.ac.jp/record/2000337/files/25-5.pdf"
+    },
+    "charlotte_bronte_jane_eyre": {
+      "author": "夏洛蒂·勃朗特",
+      "work": "简·爱",
+      "url": "https://en.wikisource.org/wiki/Jane_Eyre_(1st_edition)/Volume_2/Chapter_8",
+      "edition": "1847年英文初版，第二卷第八章",
+      "rights": "1847年英文原著，公有领域"
+    },
+    "zheng_xie_zhu_shi": {
+      "author": "郑燮",
+      "work": "竹石",
+      "url": "https://m.ccdi.gov.cn/content/e8/1c/3010.html",
+      "edition": "郑板桥题画诗《竹石》",
+      "rights": "清代题画诗原文，公有领域"
+    },
+    "aesop_tortoise_hare": {
+      "author": "伊索寓言",
+      "work": "龟兔赛跑",
+      "url": "https://www.loc.gov/static/collections/childrens-book-selections/articles-and-essays/aesop/025.html",
+      "edition": "Rand McNally 1919年版 The Æsop for Children",
+      "rights": "采用1919年版的英文篇末寓意，公有领域",
+      "rightsUrl": "https://tile.loc.gov/storage-services/service/gdc/gdclccn/19/01/40/83/19014083/19014083.pdf"
+    },
+    "hu_shi_qi_lu": {
+      "author": "胡适",
+      "work": "我的歧路",
+      "url": "https://zh.wikisource.org/zh-hant/我的歧路",
+      "edition": "《努力周报》第7期，1922年6月18日",
+      "rights": "1922年刊载原文，作者1962年去世，公有领域"
+    },
+    "franklin_roosevelt_inaugural": {
+      "author": "富兰克林·罗斯福",
+      "work": "第一次就职演说",
+      "url": "https://www.archives.gov/education/lessons/fdr-inaugural",
+      "edition": "1933年3月4日官方演说，美国国家档案馆档号 197333",
+      "rights": "美国总统履行职务时发表的演说原文，按美国政府作品公有领域使用（17 U.S.C. §105）",
+      "rightsUrl": "https://www.law.cornell.edu/uscode/text/17/105"
     }
   },
   "quotes": [
@@ -1250,6 +1340,106 @@
       "text": "珍惜时间，做有用的事，省去无谓的忙碌。",
       "original": "Lose no time; be always employed in something useful; cut off all unnecessary actions.",
       "locator": "勤勉（Industry）"
+    },
+    {
+      "id": "qu_yuan_li_sao-183",
+      "category": "中国古代",
+      "source": "qu_yuan_li_sao",
+      "text": "路曼曼其修远兮，吾将上下而求索。",
+      "original": "路曼曼其修远兮，吾将上下而求索。"
+    },
+    {
+      "id": "aristotle_ethics-184",
+      "category": "外国古典",
+      "source": "aristotle_ethics",
+      "text": "我们在勇敢的行动中练就勇气。",
+      "original": "and by doing brave actions brave.",
+      "locator": "第二卷第一章，1103b",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "li_da_zhao_jin-185",
+      "category": "中国近现代",
+      "source": "li_da_zhao_jin",
+      "text": "我以为世间最可宝贵的就是「今」，最易丧失的也是「今」。",
+      "original": "我以為世間最可寶貴的就是「今」，最易喪失的也是「今」。",
+      "locator": "首段"
+    },
+    {
+      "id": "frederick_douglass_emancipation-186",
+      "category": "外国近现代",
+      "source": "frederick_douglass_emancipation",
+      "text": "没有奋斗，就没有进步。",
+      "original": "If there is no struggle, there is no progress.",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "lu_you_du_shu-187",
+      "category": "中国古代",
+      "source": "lu_you_du_shu",
+      "text": "纸上得来终觉浅，绝知此事要躬行。",
+      "original": "纸上得来终觉浅，绝知此事要躬行。",
+      "locator": "后两句"
+    },
+    {
+      "id": "plutarch_listening-188",
+      "category": "外国古典",
+      "source": "plutarch_listening",
+      "text": "心智如薪柴，一点火便能燃起独立思考和求真的热情。",
+      "original": "like wood, it only requires kindling to create in it an impulse to think independently and an ardent desire for the truth.",
+      "locator": "48C",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "tao_xing_zhi_xing-189",
+      "category": "中国近现代",
+      "source": "tao_xing_zhi_xing",
+      "text": "行是知之始，知是行之成。",
+      "original": "行是知之始，知是行之成。",
+      "locator": "首段"
+    },
+    {
+      "id": "charlotte_bronte_jane_eyre-190",
+      "category": "外国近现代",
+      "source": "charlotte_bronte_jane_eyre",
+      "text": "我是一个自由的人，有独立的意志。",
+      "original": "I am a free human being with an independent will",
+      "locator": "简·爱对罗切斯特说的台词",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "zheng_xie_zhu_shi-191",
+      "category": "中国古代",
+      "source": "zheng_xie_zhu_shi",
+      "text": "千磨万击还坚劲，任尔东西南北风。",
+      "original": "千磨万击还坚劲，任尔东西南北风。",
+      "locator": "后两句"
+    },
+    {
+      "id": "aesop_tortoise_hare-192",
+      "category": "外国古典",
+      "source": "aesop_tortoise_hare",
+      "text": "赢得比赛的未必是跑得最快的人。",
+      "original": "The race is not always to the swift.",
+      "locator": "1919年版篇末寓意",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
+    },
+    {
+      "id": "hu_shi_qi_lu-193",
+      "category": "中国近现代",
+      "source": "hu_shi_qi_lu",
+      "text": "细心搜求事实，大胆提出假设，再细心求实证。",
+      "original": "細心搜求事實，大膽提出假設，再細心求實證。",
+      "locator": "胡适答梅光迪书"
+    },
+    {
+      "id": "franklin_roosevelt_inaugural-194",
+      "category": "外国近现代",
+      "source": "franklin_roosevelt_inaugural",
+      "text": "我们唯一需要害怕的，就是恐惧本身。",
+      "original": "the only thing we have to fear is fear itself",
+      "locator": "演说开场段",
+      "displayRights": "CC0-1.0（本仓库中文译文）"
     }
   ]
 }
